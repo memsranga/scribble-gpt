@@ -1,6 +1,6 @@
-# ScribbleGPT: Building a Basic Handwriting-Driven Chatbot
-<a href="https://medium.com/@memsranga/scribblegpt-building-a-basic-handwriting-driven-chatbot-62fee9a3d906"><img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*LbBkyH5-R9BLVUaKZcUMOQ.jpeg" alt="ScribbleGPT: Building a Basic Handwriting-Driven Chatbot" 
-style="" ></a>
+<a href="https://medium.com/@memsranga/scribblegpt-building-a-basic-handwriting-driven-chatbot-62fee9a3d906"><img src="https://github.com/user-attachments/assets/bd8daa8f-c31a-438e-93df-934a894b0c97" alt="ScribbleGPT: Building a Basic Handwriting-Driven Chatbot" 
+style="width: 80%;" ></a>
+
 
 ## Read entire blog - https://medium.com/@memsranga/scribblegpt-building-a-basic-handwriting-driven-chatbot-62fee9a3d906
 
